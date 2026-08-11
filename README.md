@@ -10,14 +10,17 @@ The tutorial consists of two main sessions:
 ## Practice Session List
 ### [Session 1 - Clinical Note Analysis]
 **Description:** Leveraging OpenAI models to extract clinically relevant insights from free-text medical notes.
+
 **Contact:** Soungmun Kim ([email](mailto:soungmun@snu.ac.kr))
 
 ### [Session 2 - InBody Report Extraction]
 **Description:** Using OpenAI vision models to extract body composition measurements from InBody report images and convert them into structured Excel data.
+
 **Contact:** Soungmun Kim ([email](mailto:soungmun@snu.ac.kr))
 
 ### [Session 3 - Building Gene Embeddings]
 **Description:** Leveraging OpenAI to learn low-dimensional gene representations from biomedical context.  
+
 **Contact:** Sungmin Kwon ([email](mailto:sungminkwon@snu.ac.kr))
 
 ## How to Start: Download and Open in Colab
