@@ -1,8 +1,6 @@
-# KOGO_OpenAI_API_Tutorial_2025
+# Clinical Data Analysis Using LLM APIs
 
-This repository is for the Clinical Data Analysis tutorial using the OpenAI API.
-
-It contains code and materials from the 3rd Genome Medicine Academy held in 2025 by the Korea Genome Organization (KOGO).
+A hands-on tutorial for analyzing clinical notes, extracting structured information from medical images, and building LLM-powered healthcare applications.
 
 ## Presentation slides
 https://docs.google.com/presentation/d/1DiOlkh-lhqpQQmcHcn5c436wPVtsygQ_/
