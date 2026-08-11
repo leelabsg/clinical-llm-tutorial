@@ -14,7 +14,11 @@ The tutorial consists of two main sessions:
 **Description:** Leveraging OpenAI models to extract clinically relevant insights from free-text medical notes.
 **Contact:** Soungmun Kim ([email](mailto:soungmun@snu.ac.kr))
 
-### [Session 2 - Building Gene Embeddings]
+### [Session 2 - InBody Report Extraction]
+**Description:** Using OpenAI vision models to extract body composition measurements from InBody report images and convert them into structured Excel data.
+**Contact:** Soungmun Kim ([email](mailto:soungmun@snu.ac.kr))
+
+### [Session 3 - Building Gene Embeddings]
 **Description:** Leveraging OpenAI to learn low-dimensional gene representations from biomedical context.  
 **Contact:** Sungmin Kwon ([email](mailto:sungminkwon@snu.ac.kr))
 
@@ -27,10 +31,11 @@ To run the tutorial notebooks, follow these steps:
 ### [Step 2: Open the Notebook in Colab]
 1. Go to [Google Colab](https://colab.google/)
 2. Click **Open Colab** button (top right)
-3. Choose the **Upload** tab and upload **Tutorial 1 & Tutorial 2 notebook(.ipynb) files** from the unzipped folder
-- Session1/Tutorial1_ExtractInfo_ClinicalNotes.ipynb
-- Session2/Tutorial2_GeneEmbeddings.ipynb
-4. Once uploaded, the notebook will open and is ready to run in Colab.
+3. Select the **Upload** tab and upload the tutorial notebooks (.ipynb) from the extracted folder:
+- Session1/Tutorial1.ipynb
+- Session2/Tutorial2ipynb
+- Session3/Tutorial3.ipynb
+4. After the upload is complete, each notebook will open in Google Colab and is ready to run.
 
 ### [Step 3: API Key Information]  
 The API Key required for the practice can be found at the link below.  
