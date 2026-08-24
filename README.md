@@ -3,7 +3,7 @@
 A hands-on tutorial for analyzing clinical notes, extracting structured information from medical images, and building LLM-powered healthcare applications.
 
 ## Presentation slides
-https://docs.google.com/presentation/d/1DiOlkh-lhqpQQmcHcn5c436wPVtsygQ_/
+https://docs.google.com/presentation/d/1Z5xI6xjkuoyp-j_Qoy_jhvWyhXRCmRvk/edit?usp=sharing&ouid=117012909535028081696&rtpof=true&sd=true
 
 The tutorial consists of two main sessions:
 
@@ -30,7 +30,7 @@ To run the tutorial notebooks, follow these steps:
 1. Go to [Google Colab](https://colab.google/)
 2. Click **Open Colab** button (top right)
 3. Select the **Upload** tab and upload the tutorial notebooks (.ipynb) from the extracted folder:
-- Session1/Tutorial1.ipynb
+- Session1/Tutorial1_OpenRouter.ipynb
 - Session2/Tutorial2ipynb
 - Session3/Tutorial3.ipynb
 4. After the upload is complete, each notebook will open in Google Colab and is ready to run.
@@ -40,3 +40,21 @@ The API Key required for the practice can be found at the link below.
 **Note**: This API Key is strictly for use during the KOGO workshop sessions only.  
 
 [API Key Document](https://docs.google.com/document/d/1qjIP4VclHwBh7nfssnprqitnWXlVVmh8IEvcOg1M424/edit?usp=sharing)
+
+The API Key required for the practice can be found at the link below.  
+**Note:** This API Key is strictly for use during the KOGO workshop sessions only.
+
+After opening the notebook, find the API key field:
+
+```python
+API_KEY = ""
+```
+
+Copy the provided API key and paste it **between the quotation marks (`" "`)**, as shown below:
+
+```python
+API_KEY = "YOUR_API_KEY_HERE"
+```
+
+> **Important:** `YOUR_API_KEY_HERE` is only an example. Replace it with the API key provided for the workshop.  
+> Do not remove the quotation marks (`" "`).
