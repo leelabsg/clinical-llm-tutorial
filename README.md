@@ -5,7 +5,7 @@ A hands-on tutorial for analyzing clinical notes, extracting structured informat
 ## Presentation slides
 https://docs.google.com/presentation/d/1Z5xI6xjkuoyp-j_Qoy_jhvWyhXRCmRvk/edit?usp=sharing&ouid=117012909535028081696&rtpof=true&sd=true
 
-The tutorial consists of two main sessions:
+The tutorial consists of three main sessions:
 
 ## Practice Session List
 ### [Session 1 - Clinical Note Analysis]
