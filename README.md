@@ -30,7 +30,6 @@ You can run the tutorial notebooks directly in Google Colab without downloading 
 4. Paste the following repository URL:
    ```
    https://github.com/leelabsg/clinical-llm-tutorial
-
    ```
 
 ### [Step 2: Select a Tutorial Notebook]
