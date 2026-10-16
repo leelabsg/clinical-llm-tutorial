@@ -20,20 +20,32 @@ The tutorial consists of three main sessions:
 **Description:** Leveraging OpenAI to learn low-dimensional gene representations from biomedical context.
 **Contact:** Sungmin Kwon ([email](mailto:sungminkwon@snu.ac.kr))
 
-## How to Start: Download and Open in Colab
-To run the tutorial notebooks, follow these steps:
-### [Step 1: Download the Github Repository]
-1. Click the green **Code** button (top right) and select **Download ZIP**.
-2. Unzip the downloaded file on your local computer.
+## How to Start: Open Notebooks Directly in Google Colab
+You can run the tutorial notebooks directly in Google Colab without downloading or installing anything.
 
-### [Step 2: Open the Notebook in Colab]
+### [Step 1: Open Google Colab]
 1. Go to [Google Colab](https://colab.google/)
-2. Click **Open Colab** button (top right)
-3. Select the **Upload** tab and upload the tutorial notebooks (.ipynb) from the extracted folder:
-- Session1/Tutorial1_OpenRouter.ipynb
-- Session2/Tutorial2ipynb
-- Session3/Tutorial3.ipynb
-4. After the upload is complete, each notebook will open in Google Colab and is ready to run.
+2. Select **File → Open notebook**.
+3. Click the **GitHub** tab.
+4. Paste the following repository URL:
+   ```
+   https://github.com/leelabsg/clinical-llm-tutorial
+
+   ```
+
+### [Step 2: Select a Tutorial Notebook]
+Choose the notebook you want to run from the search results:
+- `Session1/Tutorial1_OpenRouter.ipynb`
+- `Session2/Tutorial2.ipynb`
+- `Session3/Tutorial3.ipynb`
+
+Alternatively, click the links below to open each notebook directly in Google Colab:
+
+| Session | Notebook | Open in Colab |
+|---------|----------|---------------|
+| Session 1 | Tutorial 1: OpenRouter | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leelabsg/clinical-llm-tutorial/blob/main/Session1/Tutorial1_OpenRouter.ipynb) |
+| Session 2 | Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leelabsg/clinical-llm-tutorial/blob/main/Session2/Tutorial2.ipynb) |
+| Session 3 | Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leelabsg/clinical-llm-tutorial/blob/main/Session3/Tutorial3.ipynb) |
 
 ### [Step 3: API Key Information]  
 The API Key required for the practice can be found at the link below.  
